@@ -1,0 +1,19 @@
+{
+  "name": "serverclient",
+  "version": "1.0.0",
+  "description": "This is Server Client Understanding Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "client",
+    "application"
+  ],
+  "author": "Tanuj Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
